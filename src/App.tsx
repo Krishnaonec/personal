@@ -13,20 +13,20 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
+      "Are you sure Buntyy??",
       "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
-      "But :*(",
+      "Please maaa",
+      "DBC icecream konistaa",
+      "What about DIOR LIPSTICK?",
+      "PLEASE BUNTYYYYY",
+      "Sare maa Thata ni emmanna anuko",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to vamsi's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
+      "",
       "No :(",
     ];
 
@@ -37,14 +37,14 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <img src="https://i.pinimg.com/originals/06/d6/3f/06d63fd2ab4b47135971b0b11f6bccf8.gif" />
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you to the moon and back buntyy!! ;))</div>
         </>
       ) : (
         <>
           <img
             className="h-[200px]"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://i.pinimg.com/originals/43/dd/6d/43dd6da864b13b5e68da57fa8e151eb8.gif"
           />
           <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
           <div className="flex items-center">
